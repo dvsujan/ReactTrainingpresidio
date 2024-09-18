@@ -3,7 +3,6 @@ import './postdetails.css';
 import { AiOutlineLike , AiOutlineDislike }  from 'react-icons/ai';
 import { FaRegChartBar } from "react-icons/fa";
 import EditComponent from '../EditComponent/EditComponent';
-
 const PostDetails = (props) => {
   return (
     <div className='post-details'>
