@@ -1,0 +1,21 @@
+.post-container{ 
+    width:600px ; 
+    min-height:200px ; 
+    border-radius: 10px ;
+    box-shadow: 5px 5px 5px rgba(0,0,0,.2) ;
+    font-family: sans-serif;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    padding:10px ; 
+    margin:10px ; 
+}
+.post-container h1{ 
+    font-size: 16px;
+
+}
+.post-container p{ 
+    font-size: 16px;
+    max-width: 80%;
+}
