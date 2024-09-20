@@ -1,0 +1,20 @@
+.task-card{ 
+    width:80% ; 
+    min-height: 100px ; 
+    border:none ; 
+    border-radius: 10px;
+    padding:10px ; 
+    margin: 10px ;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+.task-card h1{ 
+    font-size: 16px;
+}
+.task-card button{ 
+    border:0px ; 
+    background-color: red ; ;
+    color: white;
+    padding:5px 10px ; 
+    border-radius: 5px;
+}
